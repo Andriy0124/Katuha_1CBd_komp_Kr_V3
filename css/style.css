@@ -1,0 +1,71 @@
+body{
+font-family: sans-serif;
+background-image: url(../img/BackGround.jpg);
+background-position: center;
+background-size: cover;
+height: 800px;
+width: auto;
+color: white;
+}
+.href{
+    margin-left: 80px;
+margin-top: 30px;
+}
+a {
+    color: white;
+    margin: 10px;
+    text-decoration: none; 
+    
+ }
+ a:hover{
+    color:green;
+ }
+    .Hotline {
+        margin-right: 80px;
+        margin-top: -33px;
+        font-size: 10px;
+        
+        display: flex;
+        justify-content: end;
+    }
+    .Hotline img{
+        margin-right: 10px;
+        margin-top: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    .Hotline h2:hover{
+        color:green;
+     }
+    .line{
+        margin-top: 50px;
+        margin-left: 88px;
+        height: 1px;
+        width: 1290px;
+        background-color: white;
+    }
+    .text{
+        margin-top: 250px;
+        text-align: center;
+    
+    }
+    .text h1{
+        font-size: 60px;
+    }
+    .text h2{
+        margin-top: -30px;
+     font-size: 18px;
+    }
+    button{
+        height: 30px;
+        width: 160px;
+        border-radius: 15px;
+        background-color:rgb(251, 173, 39) ;
+        border: none;
+        color: white;
+    }
+    button:hover{
+        background-color: green;
+        color: black;
+    }
+ 
